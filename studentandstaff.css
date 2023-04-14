@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:  #CDCFEE;
+}
+
+.image  img
+{
+    
+    width: 275px !important;
+    height: 280px !important;
+    
+}
+.image1
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.image2
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    .s1{
+        position: absolute;
+        width: 217px;
+        height: 83px;
+        left: 908px;
+        top: 32px;
+        
+    }
+    .s2{
+        position: absolute;
+    width: 162px;
+    height: 83px;
+    left: 1170px;
+    top: 32px
+    }
+    
+  
